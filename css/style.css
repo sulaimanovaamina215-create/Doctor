@@ -513,6 +513,9 @@
   .pt-\[218px\] {
     padding-top: 218px;
   }
+  .pb-10 {
+    padding-bottom: calc(var(--spacing) * 10);
+  }
   .pb-20 {
     padding-bottom: calc(var(--spacing) * 20);
   }
